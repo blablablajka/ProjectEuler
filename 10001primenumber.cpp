@@ -1,5 +1,5 @@
 
-*/
+/*
 Creator of solution: Mike Zhukov
 
 Выписав первые шесть простых чисел, получим 2, 3, 5, 7, 11 и 13. Очевидно, что 6-ое простое число - 13.
@@ -8,7 +8,7 @@ Creator of solution: Mike Zhukov
 
 Answer: 104743
 
-/*
+*/
 
 #include <iostream>
 #include <string>
