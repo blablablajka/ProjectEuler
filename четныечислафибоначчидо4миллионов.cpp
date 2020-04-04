@@ -1,4 +1,4 @@
-// Creator of Solution on C++: Zhukov Mike 
+// Author : Zhukov Mike 
 
 /*
 Каждый следующий элемент ряда Фибоначчи получается при сложении двух предыдущих.
