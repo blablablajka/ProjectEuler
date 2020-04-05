@@ -1,12 +1,13 @@
 //Author: Mike Zhukov
-
+/*
+Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
+*/
 
 
 #include <iostream>
 #include <string>
 #include <vector>
 #include <fstream>
-#include "BigInt.hpp"
 
 using namespace std;
 
